@@ -24,5 +24,9 @@ void main(void)
      * This being said, there needs to be a clear set of flags in the code to be able to switch whenever called from putty.
      */
 
+    /**
+     * REFER TO LABS 3 AND 7 FOR FUNCTIONALITY OF THE DRIVING ALGORITHM
+     */
+
 
 }
